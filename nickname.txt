@@ -1,2 +1,3 @@
 Enter a nickname on a line below.
 newguy.
+SmiteMeSmith
